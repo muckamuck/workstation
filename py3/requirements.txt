@@ -1,0 +1,6 @@
+stackility
+lambdatool
+awscli
+cfn-lint
+cfn-flip
+awslogs
